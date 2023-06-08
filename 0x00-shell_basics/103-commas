@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m
+ls -1aQ | sort -d -f | awk '{printf "%s%s", $0, (NR%2==0) ? "n" : ", "}'
