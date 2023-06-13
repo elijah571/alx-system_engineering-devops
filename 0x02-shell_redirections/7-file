@@ -1,2 +1,2 @@
 #!/bin/bash
-echo “\\\star\\\\\’”Best School” \’\\\\\ star \$\\\?\\\star\\\star\\\star\\\star\\\star\\\*\:\)”
+echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"
